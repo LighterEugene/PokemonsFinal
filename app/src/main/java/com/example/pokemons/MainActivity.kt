@@ -3,7 +3,7 @@ package com.example.pokemons
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class MainActivity : AppCompatActivity() {//Probe onekhjk
+class MainActivity : AppCompatActivity() {//Pro
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
